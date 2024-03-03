@@ -1,0 +1,15 @@
+.img1{
+    height: 250px;
+    width: 400px;
+    border-radius: 60%;
+}
+.card-img-top{
+    width: 400px;
+}
+.h3{
+    text-align: center;
+}
+footer{
+    background-color: rgb(75, 25, 83);
+}
+
